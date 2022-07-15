@@ -1,0 +1,6 @@
+topaz_installs: "production.events"
+http_installs: "marta_prod.http_installs"
+attributed_installs: "marta_prod.attributed_installs"
+updated_attributions: "marta_prod.updated_attributions"
+clicks: "marta_prod.clicks"
+impressions: "production.impressions"
