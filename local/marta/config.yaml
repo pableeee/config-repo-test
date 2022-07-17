@@ -1,11 +1,11 @@
 #
 marta:
   inputs:
-    topaz_installs: {{topaz_installs}}
-    http_installs: {{http_installs}}
-    attributed_installs: {{attributed_installs}}
-    updated_attributions: {{updated_attributions}}
-    clicks: {{clicks}}
-    impressions: {{impressions}}
+    topaz_installs: {{marta.topaz_installs}}
+    http_installs: {{marta.http_installs}}
+    attributed_installs: {{marta.attributed_installs}}
+    updated_attributions: {{marta.updated_attributions}}
+    clicks: {{marta.clicks}}
+    impressions: {{marta.impressions}}
   outputs:
-    attributed_installs: {{attributed_installs}}
+    attributed_installs: {{marta.attributed_installs}}
