@@ -13,5 +13,4 @@ marta:
     dsi:
       - {{ua.min_dsi}}
       - {{ua.max_dsi}}
-    active_games:
-      - {{ua.active_games}}
+    active_games: {{ua.active_games}}
